@@ -24,4 +24,4 @@ int main()
     cout << "Size = " << arr.size() << endl;
     cout << isSorted(arr);
     return 0;
-}
+}git pull origin main

@@ -15,4 +15,4 @@ _start:
     ; exit
     mov eax, 1          ; syscall: exit
     xor ebx, ebx        ; exit code
-    int 0x80            ; call kernel
+    int 0x80            ; call kernel 
